@@ -1,5 +1,5 @@
 # Deteksi_Objek_Yolov8
-python
+```python
 
 import streamlit as st
 import cv2
